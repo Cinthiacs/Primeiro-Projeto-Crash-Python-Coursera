@@ -22,6 +22,10 @@ git clone https://github.com/Cinthiacs/Primeiro-Projeto-Crash-Python-Coursera.gi
 #Executar o código em um compilador "Jupyter", ou "google colab".
 
 ```
+#Link para o Final Project:
+
+https://www.coursera.org/learn/python-crash-course/home/week/6
+
 # Autora
 
 Cinthia Cavalheiro Silverio.
