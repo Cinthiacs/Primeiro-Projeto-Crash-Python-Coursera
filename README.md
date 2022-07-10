@@ -13,14 +13,13 @@ O módulo wordcloud gerará então, a imagem do dicionário.
 
 # Como executar o projeto:
 
-Compilador em linguagem C:
-Jupyter notebook
+IDE:
+Jupyter notebook.
+Google Colab.
 
 ```bash
 # clonar repositório
 git clone https://github.com/Cinthiacs/Primeiro-Projeto-Crash-Python-Coursera.git
-#Executar o código em um compilador "Jupyter", ou "google colab".
-
 ```
 #Link para o Final Project:
 
