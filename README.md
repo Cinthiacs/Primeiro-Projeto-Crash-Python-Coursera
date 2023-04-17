@@ -25,7 +25,7 @@ O módulo wordcloud gerará então, a imagem do dicionário.
 ```bash
 # clonar repositório
 git clone https://github.com/Cinthiacs/Projeto-Crash-Python-Coursera.git
-# Abrir Projeto-Crash-Python-Coursera.pynb 
+# Abrir Projeto-Crash-Python-Coursera.ipynb 
 ```
 - Abra o arquivo WordCloud.ipynb no Jupyter Notebook.
 - Execute todas as células do notebook.
