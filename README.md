@@ -32,3 +32,7 @@ O módulo wordcloud gerará então, a imagem do dicionário.
 <div align="center">
   <img width= "411" alt="IMG_20230202_113442" src="https://github.com/Cinthiacs/Primeiro-Projeto-Crash-Python-Coursera/blob/main/wordCloud.png">
 </div>
+
+## Autores
+
+Cinthia Cavalheiro.
