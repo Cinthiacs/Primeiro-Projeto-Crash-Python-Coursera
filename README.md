@@ -9,6 +9,7 @@ Este projeto é uma implementação de um algoritmo de WordCloud desenvolvido em
 O objetivo é criar uma imagem de nuvem de palavras a partir de um arquivo de texto de entrada.
 
 A partir de uma "word list" em arquivo .txt, foi desenvolvido um algorítimo para interpretação das palavras, formando um dicionário de palavras.
+
 A função calculate_frequencies, realiza a avaliação de palavras repetidas, e a função uninteresting_words, para palavras ignoradas.
 
 O módulo wordcloud gerará então, a imagem do dicionário.
