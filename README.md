@@ -22,6 +22,11 @@ O módulo wordcloud gerará então, a imagem do dicionário.
 ## Instruções de uso
 
 - Clone o repositório em sua máquina local.
+```bash
+# clonar repositório
+git clone https://github.com/Cinthiacs/Projeto-Crash-Python-Coursera.git
+# Abrir Projeto-Crash-Python-Coursera.pynb 
+```
 - Abra o arquivo WordCloud.ipynb no Jupyter Notebook.
 - Execute todas as células do notebook.
 - Quando a célula com o widget de upload aparecer, clique em "Select File" para escolher o arquivo de texto que deseja criar a WordCloud.
