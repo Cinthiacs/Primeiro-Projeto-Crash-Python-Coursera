@@ -1,32 +1,34 @@
-# Crash Course on Python - Final Project.
+## Crash Course on Python - Final Project.
+
+Projeto de WordCloud desenvolvido em Jupyter Notebook
 
 # Sobre o projeto:
 
-Criado uma "word cloud", na linguagem Python, no ambiente jupyter notebook. 
+Este projeto é uma implementação de um algoritmo de WordCloud desenvolvido em Python na IDE Jupyter Notebook. 
+
+O objetivo é criar uma imagem de nuvem de palavras a partir de um arquivo de texto de entrada.
+
 A partir de uma "word list" em arquivo .txt, foi desenvolvido um algorítimo para interpretação das palavras, formando um dicionário de palavras.
 A função calculate_frequencies, realiza a avaliação de palavras repetidas, e a função uninteresting_words, para palavras ignoradas.
 
 O módulo wordcloud gerará então, a imagem do dicionário.
 
-# Tecnologias utilizadas:
-- Python
+## Tecnologias utilizadas:
 
-# Como executar o projeto:
+- Linguagem: Python
+- Bibliotecas: wordcloud, numpy, matplotlib, ipywidgets, fileupload
 
-IDE:
-Jupyter notebook.
-Google Colab.
+## Instruções de uso
 
-```bash
-# clonar repositório
-git clone https://github.com/Cinthiacs/Primeiro-Projeto-Crash-Python-Coursera.git
-```
-#Link para o Final Project:
+- Clone o repositório em sua máquina local.
+- Abra o arquivo WordCloud.ipynb no Jupyter Notebook.
+- Execute todas as células do notebook.
+- Quando a célula com o widget de upload aparecer, clique em "Select File" para escolher o arquivo de texto que deseja criar a WordCloud.
+- Aguarde o processamento e a imagem será exibida automaticamente.
 
-https://www.coursera.org/learn/python-crash-course/home/week/6
+## Exemplo de imagem gerada
 
-# Autora
 
-Cinthia Cavalheiro Silverio.
+## Autores
+Seu nome aqui
 
-www.linkedin.com/in/cinthia-cavalheiro-silverio-482667219
